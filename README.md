@@ -11,4 +11,4 @@
     bat: Bat algorithm
 
 
-<p style={"text:red"}>The above algorithms were tested on the iris data-set for feature selection.</p>
+<p styles={"text:red"}>The above algorithms were tested on the iris data-set for feature selection.</p>
