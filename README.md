@@ -1,6 +1,5 @@
 # #OptimiZation #
-<div>
-    <ul>
+
     This is my playground for optimization algorithms. The various algorithms used include:
     ACO: Ant Colony Optimization
     SMO: Spider Monkey Optimization
@@ -10,7 +9,6 @@
     gravity: Gravity Search Algorithm
     fpa:  Flower Pollination Algorithm
     bat: Bat algorithm
-    </ul>
-</div>
+
 
 <p style={"text:red"}>The above algorithms were tested on the iris data-set for feature selection.</p>
