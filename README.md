@@ -10,6 +10,7 @@ This is my playground for learning and playing with optimization algorithms. The
     gravity: Gravity Search Algorithm
     fpa:  Flower Pollination Algorithm
     bat: Bat algorithm
+    bee: Artificial Bee Colony
   
 
 
