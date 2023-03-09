@@ -1,6 +1,9 @@
-# #OptimiZation #
+# OptimiZation 
 
-    This is my playground for optimization algorithms. The various algorithms used include:
+
+ 
+This is my playground for optimization algorithms. The various algorithms used include:
+
     ACO: Ant Colony Optimization
     SMO: Spider Monkey Optimization
     geneprog: Genetic Programming
@@ -9,6 +12,7 @@
     gravity: Gravity Search Algorithm
     fpa:  Flower Pollination Algorithm
     bat: Bat algorithm
+  
 
 
-<p styles={"text:red"}>The above algorithms were tested on the iris data-set for feature selection.</p>
+<p styles={"text:red"}>The above algorithms were used on the iris data-set for feature selection.</p>
