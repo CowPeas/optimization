@@ -1,8 +1,6 @@
-# OptimiZation 
+OptimiZation 
 
-
- 
-This is my playground for optimization algorithms. The various algorithms used include:
+This is my playground for learning and playing with optimization algorithms. The various algorithms used include:
 
     ACO: Ant Colony Optimization
     SMO: Spider Monkey Optimization
