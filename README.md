@@ -17,4 +17,4 @@ This is my playground for learning and playing with optimization algorithms. The
   
 
 
-<p styles={"text:red"}>In this repo the above algorithms were used on the iris data-set for feature selection.</p>
+<p styles={"text:red"}>In this repo we test the above algorithms on the iris data-set for Feature Selection.</p>
