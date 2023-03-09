@@ -3,7 +3,7 @@ OptimiZation
 This is my playground for learning and playing with optimization algorithms. The various algorithms used include:
 
     ACO: Ant Colony Optimization
-    SMO: Spider Monkey Optimization
+    smo: Spider Monkey Optimization
     bee: Artificial Bee Colony
     geneprog: Genetic Programming
     genefeat: Genetic Algorithm
