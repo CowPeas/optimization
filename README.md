@@ -4,13 +4,14 @@ This is my playground for learning and playing with optimization algorithms. The
 
     ACO: Ant Colony Optimization
     SMO: Spider Monkey Optimization
+    bee: Artificial Bee Colony
     geneprog: Genetic Programming
     genefeat: Genetic Algorithm
     cmea: Constrained Multi-objective Evolutionary Algorithm
     gravity: Gravity Search Algorithm
     fpa:  Flower Pollination Algorithm
     bat: Bat algorithm
-    bee: Artificial Bee Colony
+   
   
 
 
