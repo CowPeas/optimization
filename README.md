@@ -1,6 +1,6 @@
 OptimiZation
 
-This is my playground for learning and playing with optimization algorithms. The various algorithms used include:
+This is a playground for learning and playing with optimization algorithms. The various algorithms used include:
 
     aco: Ant Colony Optimization
     bat: Bat algorithm
