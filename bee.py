@@ -123,3 +123,8 @@ def abc_algorithm(pop_size, num_iterations, limit):
 
     return best_solution, best_fitness
 
+# Print the best solution and its accuracy
+print("Best solution:", best_solution)
+print("Accuracy:", best_fitness)
+
+
